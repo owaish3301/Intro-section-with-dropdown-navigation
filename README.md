@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-PLVuLjbZ0g)
-- Live Site URL: [](https://euphonious-conkies-de22ac.netlify.app/)
+- Solution URL: [Click to see the solution page for the challenge](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-PLVuLjbZ0g)
+- Live Site URL: [Click to see the live site](https://euphonious-conkies-de22ac.netlify.app/)
 
 ## My process
 
